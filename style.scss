@@ -1,0 +1,16 @@
+$primaryColor: rgb(29, 27, 27);
+$secondaryColor: white;
+
+body {
+  background-color: $primaryColor;
+  color: $secondaryColor;
+  text-align: center;
+}
+
+h2 {
+  display: inline-block;
+}
+
+input {
+  height: 26px;
+}
